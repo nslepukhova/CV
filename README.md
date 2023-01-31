@@ -1,4 +1,3 @@
-https://nslepukhova.github.io/CV/
 
 Сайт визитка HTML + CSS + JS
 
